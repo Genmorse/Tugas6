@@ -43,7 +43,7 @@ public class DataMahasiswa {
     } catch (Exception exception) {
             //kondisi ada error, apa yang ditampilkan
             System.out.println(exception.getMessage());
-            System.out.println("Isian Semester dan SKS Harus Berupa Angka");
+            System.out.println("Isian Semester dan SKS Harus Berupa Angka  ");
         }
     }
 }
